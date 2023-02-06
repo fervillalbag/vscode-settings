@@ -1,0 +1,85 @@
+{
+  "editor.fontLigatures": true,
+  "explorer.confirmDelete": false,
+  "explorer.compactFolders": false,
+  "editor.fontWeight": 400,
+  "editor.lineHeight": 23,
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": true,
+  "editor.renderWhitespace": "none",
+  "editor.tabSize": 2,
+  "http.proxySupport": "off",
+  "eslint.validate": ["typescript", "typescriptreact"],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "emmet.syntaxProfiles": {
+    "javascript": "html"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "files.autoSave": "off",
+  "window.restoreWindows": "none",
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontFamily": "'JetBrains Mono Regular', 'MesloLGL NF'",
+  "extensions.ignoreRecommendations": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.snippetSuggestions": "top",
+  "editor.formatOnPaste": true,
+  "[html]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "workbench.sideBar.location": "right",
+  "workbench.statusBar.visible": true,
+  "editor.lineNumbers": "off",
+  "editor.minimap.enabled": true,
+  "oneDarkPro.bold": true,
+  "breadcrumbs.enabled": true,
+  "editor.renderControlCharacters": false,
+  "editor.minimap.maxColumn": 60,
+  "eslint.alwaysShowStatus": true,
+  "files.associations": {
+    ".sequelizerc": "javascript",
+    ".stylelintrc": "json",
+    ".prettierrc": "json"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "prettier.printWidth": 70,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "terminal.integrated.tabs.location": "left",
+  "diffEditor.wordWrap": "on",
+  "html.format.wrapLineLength": 80,
+
+  "go.useLanguageServer": true,
+  "go.languageServerExperimentalFeatures": {
+    "diagnostics": true
+  },
+  "[go]": {
+    "editor.codeActionsOnSave": {
+      "editor.formatOnSave": false,
+      "source.organizeImports": true
+    }
+  },
+  "gopls": {
+    "completeUnimported": true,
+    "deepCompletion": true
+  },
+  "explorer.confirmDragAndDrop": false,
+  "liveServer.settings.fullReload": true,
+  "editor.fontFamily": "'Cascadia Code', 'Fira Code', 'agave NF r', 'JetBrains Mono Regular', 'Fira Code', monospace",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.formatOnSave": true,
+  "window.menuBarVisibility": "toggle",
+  "git.autofetch": true,
+  "glassit.alpha": 255,
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "window.zoomLevel": 0.7,
+  "editor.fontSize": 14,
+  "workbench.colorTheme": "Codely Dark"
+}
